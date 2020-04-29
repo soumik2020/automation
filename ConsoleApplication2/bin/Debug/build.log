@@ -1,0 +1,21 @@
+Build started 22-04-2020 09:21:56.
+__________________________________________________
+Project "C:\Users\Sanjib Sen\source\repos\sampleTest\sampleTest.sln" (Build target(s)):
+
+Target ValidateSolutionConfiguration:
+    Building solution configuration "Debug|Any CPU".
+Target Build:
+    __________________________________________________
+    Project "C:\Users\Sanjib Sen\source\repos\sampleTest\sampleTest.sln" is building "C:\Users\Sanjib Sen\source\repos\sampleTest\sampleTest.csproj" (default targets):
+
+    C:\Users\Sanjib Sen\source\repos\sampleTest\sampleTest.csproj(1,1): error MSB4041: The default XML namespace of the project must be the MSBuild XML namespace. If the project is authored in the MSBuild 2003 format, please add xmlns="http://schemas.microsoft.com/developer/msbuild/2003" to the <Project> element. If the project has been authored in the old 1.0 or 1.2 format, please convert it to MSBuild 2003 format.
+
+    Done building project "sampleTest.csproj" -- FAILED.
+
+Build FAILED.
+
+C:\Users\Sanjib Sen\source\repos\sampleTest\sampleTest.csproj(1,1): error MSB4041: The default XML namespace of the project must be the MSBuild XML namespace. If the project is authored in the MSBuild 2003 format, please add xmlns="http://schemas.microsoft.com/developer/msbuild/2003" to the <Project> element. If the project has been authored in the old 1.0 or 1.2 format, please convert it to MSBuild 2003 format.
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:03.11
